@@ -1,3 +1,8 @@
+---
+layout: post
+title: Upgrade Breena, the Demagogue: _Commander 2021's Silverquil Statement pre-constructed EDH commander_
+---
+
 # Upgrade Breena, the Demagogue: _Commander 2021's Silverquil Statement pre-constructed EDH commander_
 
 Upgrades grouped by recommended importance.
