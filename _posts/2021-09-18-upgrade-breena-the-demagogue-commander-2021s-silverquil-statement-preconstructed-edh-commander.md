@@ -41,4 +41,19 @@ Upgrades grouped by recommended importance.
 | Soul Snare | Swords to Plowshares |
 | Utter End | Anguished Unmaking |
 
+## General upgrades
+
+| Remove | Add |
+|---------- | ---------- |
+| Bloodthirsty Blade | Skullclamp |
+| Bold Plagiarist | Alms Collector |
+| Citadel Siege | Felidar Retreat |
+| Elite Scaleguard | Shadrix Silverquil |
+| Gideon, Champion of Justice | Ajani, Adversary of Tyrants |
+| Hunted Lamasu | Bloodtracker |
+| Martial Impetus | Sword of Truth and Justice |
+| Tempting Contract | Smothering Tithe |
+| Vow of Duty | Flawless Maneuver |
+
 ### Changelog
+2021-10-10: Added general upgrades section. Initial cards recommended replacing are: Bloodthirsty Blade, Bold Plagiarist, Citadel Siege, Elite Scaleguard, Gideon - Champion of Justice, Hunted Lamasu, Martial Impetus, Tempting Contract, Vow of Duty
